@@ -8,8 +8,8 @@ style.css
 /* Load Magic Twilight */
 @font-face {
   font-family: 'Magic Twilight';
-  src: url('fonts/MagicTwilight-Regular.ttf') format('truetype'),
-       url('fonts/MagicTwilight-Regular.woff2') format('woff2');
+  src: url('/fonts/MagicTwilight-Regular.ttf') format('truetype'),
+       url('/fonts/MagicTwilight-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
