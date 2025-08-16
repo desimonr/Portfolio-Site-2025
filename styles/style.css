@@ -16,35 +16,35 @@
 h1 {
     font-family: 'Magic Twilight';
     font-size: 3rem;
-    font-weight: 400;
+    font-weight: normal;
     line-height: 1.6
 }
 
 h2 {
     font-family: 'Magic Twilight';
     font-size: 2.5rem;
-    font-weight: 700;
+    font-weight: normal;
     line-height: 1.4;
 }
 
 h3 {
     font-family: 'Kanit';
     font-size: 2rem;
-    font-weight: 600;
+    font-weight: normal;
     line-height: 1.4;
 }
 
 h4 {
     font-family: 'Kanit';
     font-size: 1.5rem;
-    font-weight: 600;
+    font-weight: normal;
     line-height: 1.6;
 }
 
 h5 {
    font-family: 'Kanit';
     font-size: 1.5rem;
-    font-weight: 600;
+    font-weight: normal;
     color: #FFFFFF;
     line-height: 1.6; 
 }
